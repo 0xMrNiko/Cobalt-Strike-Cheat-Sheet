@@ -1,4 +1,4 @@
-# Cobalt-Strick-Cheat-Sheet
+# Cobalt-Strike-Cheat-Sheet
 ## Cobalt Strike
 
 > Cobalt Strike is threat emulation software. Red teams and penetration testers use Cobalt Strike to demonstrate the risk of a breach and evaluate mature security programs. Cobalt Strike exploits network vulnerabilities, launches spear phishing campaigns, hosts web drive-by attacks, and generates malware infected files from a powerful graphical user interface that encourages collaboration and reports all activity.
